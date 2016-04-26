@@ -1,0 +1,29 @@
+{
+  "name": "games-world-wide",
+  "version": "1.0.0",
+  "description": "Project-2",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/StrongSad/games-world-wide.git"
+  },
+  "author": "Jacob Barrus",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/StrongSad/games-world-wide/issues"
+  },
+  "homepage": "https://github.com/StrongSad/games-world-wide#readme",
+  "dependencies": {
+    "body-parser": "^1.15.0",
+    "cheerio": "^0.20.0",
+    "ejs": "^2.4.1",
+    "express": "^4.13.4",
+    "express-ejs-layouts": "^2.1.0",
+    "pg": "^4.5.3",
+    "pg-hstore": "^2.3.2",
+    "sequelize": "^3.21.0"
+  }
+}
