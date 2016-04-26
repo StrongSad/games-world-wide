@@ -18,6 +18,33 @@ app.get('/', function(req, res) {
   res.render('index.ejs');
 });
 
+app.get('/create', function(req, res) {
+  res.render('createAccount');
+});
+
+app.post('/create', function(req, res) {
+  console.log(req.body);
+  db.user.findOrCreate({
+    where: {
+      username: req.body.username,
+      email: req.body.email
+    },
+    defaults: {
+      first_name: req.body.first_name,
+      last_name: req.body.last_name,
+      password: req.body.password
+    }
+  }).spread(function(user, isNew) {
+    if (isNew) {
+      res.redirect('/');
+    } else {
+      res.redirect('/create');
+    }
+  }).catch(function(err) {
+    res.redirect('/create');
+  });
+});
+
 // request('https://ign.com/', function (error, response, html) {
 //   if (!error && response.statusCode == 200) {
 //     console.log(html);
