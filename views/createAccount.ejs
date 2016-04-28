@@ -1,19 +1,15 @@
 <h1>Create an account</h1>
 
-<form>
-  <input type="text" name="First_Name" placeholder="First Name">
+<form method="POST" action="/user/create">
+  <input type="text" name="first_name" placeholder="First Name">
   <br>
-  <input type="text" name="Last_name" placeholder="Last name">
-  <br>
-  <input type="text" name="username" placeholder="Username">
+  <input type="text" name="last_name" placeholder="Last name">
   <br>
   <input type="text" name="email" placeholder="Email">
   <br>
-  <!-- <input type="text" placeholder="repeat email"> -->
- <!--  <br> -->
-  <input type="text" name="password" placeholder="Password">
+  <input type="text" name="username" placeholder="Username">
   <br>
-  <!-- <input type="text" placeholder="repeat password"> -->
-  <!-- <br> -->
-  <input type="submit" value="Account">
+  <input type="password" name="password" placeholder="Password">
+  <br>
+  <input type="submit" value="Create Account">
 </form>

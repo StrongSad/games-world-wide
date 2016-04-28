@@ -5,18 +5,39 @@
   <title>Document</title>
   <!-- Latest compiled and minified CSS & JS -->
   <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.6/css/bootstrap.min.css" integrity="sha384-1q8mTJOASx8j1Au+a5WDVnPi2lkFfwwEAa8hDDdjZlpLegxhjVME1fgjWPGmkzs7" crossorigin="anonymous">
-  
+  <style type="text/css">
+    body {
+      background-color: skyblue;
+    }
+
+    .container {
+      border: 1px solid gray;
+      border-radius: 2px;
+      background-color: white;
+      height: 700px;
+    }
+
+    form {
+      margin-top: 5%;
+    }
+
+    h1 {
+      margin-top: 10%;
+    }
+  </style>
 </head>
 <body>
   <%- include nav.ejs %>
   <div class="container">
     <section class="row">
-      <div class="col-md-offset-1 col-md-10">
+      <div class="col-md-offset-1 col-md-10" style="text-align: center;">
       <%- body %>
       </div>
     </section>
   </div>
-  <script src="//code.jquery.com/jquery.js"></script>
+  <script src="https://ajax.googleapis.com/ajax/libs/jquery/2.2.0/jquery.min.js"></script>
   <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.6/js/bootstrap.min.js" integrity="sha384-0mSbJDEHialfmuBBQP6A4Qrprq5OVfW37PRR3j5ELqxss1yVqOtnepnHVP9aJ7xS" crossorigin="anonymous"></script>
+  <script type="text/javascript" src="./../../controllers/gamespot/test.js"></script>
+  
 </body>
 </html>
