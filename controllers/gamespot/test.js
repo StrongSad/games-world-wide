@@ -2,6 +2,7 @@ var fs = require('fs');
 var xml2js = require('xml2js');
 var parser = new xml2js.Parser({explicitRoot:false, ignoreAttrs: true, explicitArray:false});
 var $ = require('jQuery');
+var request = require('request');
 var db = require('./../../models');
 
 fs.readFile('gamespot.xml', 'utf8', function(err, xml) {
@@ -30,7 +31,16 @@ fs.readFile('gamespot.xml', 'utf8', function(err, xml) {
 });
 
 
-// <script type="text/javascript">
+
+
+  
+
+//       //res.render("articles", {results: results});
+//     }
+//   });
+// });
+
+//<script type="text/javascript">
 //     $(document).ready(function() {
 //     var theString = "<p>A string <span>with a span in it</span></p>";
 //     var theResult = $(theString).remove().html();
@@ -47,10 +57,6 @@ fs.readFile('gamespot.xml', 'utf8', function(err, xml) {
 
 //   console.log(theResult);
 // });
-
-
-
-
 
 
 

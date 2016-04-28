@@ -10,6 +10,7 @@ var db = require('./models');
 var fs = require('fs');
 var xml2js = require('xml2js');
 var parser = new xml2js.Parser({explicitRoot:false, ignoreAttrs: true, explicitArray:false});
+var moment = require('moment')
 
 var app = express();
 
@@ -17,14 +18,18 @@ app.set('view engine', 'ejs');
 app.use(ejsLayouts);
 app.use(bodyParser.urlencoded({extended: false}));
 app.use(express.static(__dirname + '/static'));
+
 app.use(session({
   secret: 'dsalkfjasdflkjgdfblknbadiadsnkl',
   resave: false,
   saveUninitialized: true
 }));
 
+
 app.get('/', function(req, res) {
-  res.render('index.ejs');
+  db.article.findAll().then(function(articles) {
+    res.render('index.ejs', {articles: articles});
+  });
 });
 
 
@@ -71,6 +76,27 @@ app.get('/user/login', function(req, res) {
   res.render('login');
 });
 
+app.post('/user/login', function(req, res) {
+  var username = req.body.username;
+  var password = req.body.password;
+  db.user.authenticate(email, password, function(err, user) {
+    if (err) {
+      res.send(err);
+    } else if (user) {
+      req.session.userId = user.id;
+      res.redirect('/');
+    } else {
+      res.send('Something went wrong somewhere... Maybe try again?  or your account might not exist... sorry (in canadian accent to help ease the pain (i am canadian btw))');
+    }
+  });
+});
+
+//logout
+
+app.get('/logout', function(req, res) {
+  req.session.userId = false;
+  res.redirect('/');
+})
 
 //users saved articles
 
@@ -85,14 +111,7 @@ app.get('/saved', function(req,res) {
 //   }
 // }); // run with $ node scrape.js in terminal
 
-app.get('/test', function(req, res) {
-  request('http://feeds.ign.com/ign/all?format=xml', function(err, request, body) {
-    console.log(body)
-    parser.parseString(body.data, function(error, result) {
-      console.log(result);
-    });
-  })
-});
+
 
 //http://feeds.ign.com/ign/all?format=xml
 

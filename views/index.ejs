@@ -1,3 +1,11 @@
-<h1>News</h1>
+<h1>The News You Care About</h1>
+
+<% articles.forEach(function(article) { %>
+  <div class="article">
+    <h1><%= article.title %></h1>
+    <p><a href="<%= article.link %>" target="blank"><%= article.link %></a></p>
+    <p><%= article.description %></p>
+  </div>
+<% }) %>
 
 

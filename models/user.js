@@ -19,6 +19,17 @@ module.exports = function(sequelize, DataTypes) {
       associate: function(models) {
         // associations can be defined here
         models.user.belongsToMany(models.article, {through: models.saved});
+      },
+      authenticate: function(username, password, callback) {
+        this.find({
+          where: {username: username}
+        }).then(function(user) {
+          if(!user) callback(null, false);
+          bcrypt.compare(password, user.password, function(err, result) {
+            if(err) return callback(err);
+            callback(null, result ? user : false);
+          });
+        }).catch(callback);
       }
     },
   hooks: {
