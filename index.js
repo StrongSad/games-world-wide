@@ -146,6 +146,10 @@ app.post('/user/saved', function(req, res) {
   // })
 });
 
+app.get('/sources', function(req, res) {
+  res.render('sources');
+});
+
 app.delete('/user/saved', function(req, res) {
 
 });
