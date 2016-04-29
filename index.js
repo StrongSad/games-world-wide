@@ -25,16 +25,25 @@ app.use(session({
   saveUninitialized: true
 }));
 
+app.use(function(req, res, next) {
+  if (req.session.userId) {
+    db.user.findById(req.session.userId).then(function(user) {
+      req.currentUser = user;
+      res.locals.currentUser = user;
+      next();
+    });
+  } else {
+    req.currentUser = false;
+    res.locals.currentUser = false;
+    next();
+  }
+});
 
 app.get('/', function(req, res) {
   db.article.findAll().then(function(articles) {
     res.render('index.ejs', {articles: articles});
   });
 });
-
-
-
-
 
 // Creating the user
 
@@ -78,12 +87,15 @@ app.get('/user/login', function(req, res) {
 
 app.post('/user/login', function(req, res) {
   var username = req.body.username;
+  //console.log(username);
   var password = req.body.password;
-  db.user.authenticate(email, password, function(err, user) {
+  //console.log(password);
+  db.user.authenticate(username, password, function(err, user) {
     if (err) {
       res.send(err);
     } else if (user) {
       req.session.userId = user.id;
+      console.log(req.session.userId);
       res.redirect('/');
     } else {
       res.send('Something went wrong somewhere... Maybe try again?  or your account might not exist... sorry (in canadian accent to help ease the pain (i am canadian btw))');
@@ -93,28 +105,50 @@ app.post('/user/login', function(req, res) {
 
 //logout
 
-app.get('/logout', function(req, res) {
+app.get('/user/logout', function(req, res) {
   req.session.userId = false;
   res.redirect('/');
 })
 
 //users saved articles
 
-app.get('/saved', function(req,res) {
-  res.render('showSaved');
+app.get('/user/saved', function(req,res) {
+  db.user.findById(req.currentUser.id).then(function(user) {
+    //if(err) res.send("An error occured");
+    if(user) {
+      user.getArticles().then(function(articles) {
+        console.log(articles);
+        res.render('showSaved', {articles: articles});
+      })
+    }
+  });
+  // db.saved.findAll({
+  //   where: {
+  //     userId: req.currentUser.id 
+  //   }
+  // }).then(function(articles) {
+  //   res.render('showSaved', {articles: articles});
+  // })
 });
 
+app.post('/user/saved', function(req, res) {
+  console.log(req.currentUser.id);
+  db.article.findOne({where: {id: req.body.articleId}}).then(function(article) {
+    db.user.findOne({where: {id: req.currentUser.id}}).then(function(user) {
+      user.addArticle(article).then(function() {
+        
+      });
+    });
+  });
+  // db.saved.create({
+  //   article_id: req.body.articleId,
+  //   user_id: req.currentUser.id 
+  // })
+});
 
-// request('https://ign.com/', function (error, response, html) {
-//   if (!error && response.statusCode == 200) {
-//     console.log(html);
-//   }
-// }); // run with $ node scrape.js in terminal
+app.delete('/user/saved', function(req, res) {
 
-
-
-//http://feeds.ign.com/ign/all?format=xml
-
+});
 
 var port = 3000;
 app.listen(port, function() {

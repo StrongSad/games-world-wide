@@ -5,6 +5,11 @@
     <h1><%= article.title %></h1>
     <p><a href="<%= article.link %>" target="blank"><%= article.link %></a></p>
     <p><%= article.description %></p>
+    <p><%= article.id %></p>
+    <form action="/user/saved" method="POST">
+      <input type="hidden" name="articleId" value="<%= article.id %>"></input>
+      <input type="submit" id="saveForLater" value="Save for Later">
+    </form>
   </div>
 <% }) %>
 

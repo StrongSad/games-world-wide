@@ -1,8 +1,8 @@
 'use strict';
 module.exports = function(sequelize, DataTypes) {
   var saved = sequelize.define('saved', {
-    user_id: DataTypes.INTEGER,
-    article_id: DataTypes.INTEGER
+    userId: DataTypes.INTEGER,
+    articleId: DataTypes.INTEGER
   }, {
     classMethods: {
       associate: function(models) {

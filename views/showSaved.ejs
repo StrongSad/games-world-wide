@@ -1,1 +1,24 @@
 <h1>Saved News</h1>
+
+
+
+<% articles.forEach(function(article) { %>
+  <div class="article">
+    <h1><%= article.title %></h1>
+    <p><%= article.description %></p>
+    <p><a href="<%= article.link %>" target="blank"><%= article.link %></a></p>
+    <form>
+      <input type="button" id="deleteThis" value="Delete">
+    </form>
+  </div>
+<% }) %>
+
+
+
+
+
+
+
+
+
+
