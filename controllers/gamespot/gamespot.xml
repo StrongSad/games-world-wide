@@ -2,265 +2,190 @@
 
 <rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" >
   <channel>
-    <title>The Escapist : video-games</title>
-    <link>http://www.escapistmagazine.com</link>
-    <description><![CDATA[The Escapist]]></description>
+    <title>The Escapist : Popular Videos</title>
+    <link>http://www.escapistmagazine.com/videos/popular</link>
+    <description><![CDATA[The Escapist, Popular Videos]]></description>
     <language>en-us</language>
     <docs>http://blogs.law.harvard.edu/tech/rss</docs>
-        <image>
-          <url>http://cdn.themis-media.com/media/global/images/library/deriv/58/58587.png</url>
-          <title>The Escapist : video-games</title>
-          <link>http://www.escapistmagazine.com</link>
-        </image>
-    <item>
-      <title>New Deus Ex: Mankind Divided Trailer Focuses on Story, Augmentations</title>
-      <link>http://www.escapistmagazine.com/news/view/167289-New-Deus-Ex-Mankind-Divided-Trailer-Focuses-on-Story-Augmentations?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=tags</link>
-      <guid>http://www.escapistmagazine.com/news/view/167289-New-Deus-Ex-Mankind-Divided-Trailer-Focuses-on-Story-Augmentations?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=tags</guid>
-      <description><![CDATA[<div style='float: left; width: 90px; height: 90px; margin: 0 5px 5px 0; display: block;'><img src='http://cdn.escapistmagazine.com/media/global/images/library/deriv/1317/1317434.png' width='90' height='90'></div><p>Boxed and digital editions also detailed.</p>
-<p><a href="http://www.escapistmagazine.com/news/view/167289-New-Deus-Ex-Mankind-Divided-Trailer-Focuses-on-Story-Augmentations?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=tags" title="" target="_blank">View Article</a></p>]]></description>
-      <pubDate>Thu, 28 Apr 2016 17:27:04 GMT</pubDate>
-      <dc:creator>Lizzy Finnegan</dc:creator>
-      <category>News</category>
-    </item>
-    <item>
-      <title>Fallout 4's 1.5 Update Now Live on Steam</title>
-      <link>http://www.escapistmagazine.com/news/view/167288-Fallout-4s-1-5-Update-Now-Live-on-Steam?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=tags</link>
-      <guid>http://www.escapistmagazine.com/news/view/167288-Fallout-4s-1-5-Update-Now-Live-on-Steam?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=tags</guid>
-      <description><![CDATA[<div style='float: left; width: 90px; height: 90px; margin: 0 5px 5px 0; display: block;'><img src='http://cdn.escapistmagazine.com/media/global/images/library/deriv/1014/1014901.png' width='90' height='90'></div><p><em>Fallout 4</em>'s 1.5 update is now live on Steam, consoles to follow.</p>
-<p><a href="http://www.escapistmagazine.com/news/view/167288-Fallout-4s-1-5-Update-Now-Live-on-Steam?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=tags" title="" target="_blank">View Article</a></p>]]></description>
-      <pubDate>Thu, 28 Apr 2016 15:08:00 GMT</pubDate>
-      <dc:creator>Lizzy Finnegan</dc:creator>
-      <category>News</category>
-    </item>
-    <item>
-      <title>Superhot Xbox One Release Date Announced</title>
-      <link>http://www.escapistmagazine.com/news/view/167285-Superhot-Xbox-One-Release-Date-Announced?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=tags</link>
-      <guid>http://www.escapistmagazine.com/news/view/167285-Superhot-Xbox-One-Release-Date-Announced?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=tags</guid>
-      <description><![CDATA[<div style='float: left; width: 90px; height: 90px; margin: 0 5px 5px 0; display: block;'><img src='http://cdn.escapistmagazine.com/media/global/images/library/deriv/1317/1317308.png' width='90' height='90'></div><p><em>Superhot</em>, the first-person shooter where time only moves when you do, is moving quickly towards an Xbox One release.</p>
-<p><a href="http://www.escapistmagazine.com/news/view/167285-Superhot-Xbox-One-Release-Date-Announced?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=tags" title="" target="_blank">View Article</a></p>]]></description>
-      <pubDate>Thu, 28 Apr 2016 13:59:00 GMT</pubDate>
-      <dc:creator>Lizzy Finnegan</dc:creator>
-      <category>News</category>
-    </item>
-    <item>
-      <title>Mark Kern, Blizzard, and the Legacy (Servers) of World of Warcraft</title>
-      <link>http://www.escapistmagazine.com/articles/view/video-games/17021-Mark-Kern-Blizzard-Discuss-World-of-Warcraft-Legacy-Servers?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=tags</link>
-      <guid>http://www.escapistmagazine.com/articles/view/video-games/17021-Mark-Kern-Blizzard-Discuss-World-of-Warcraft-Legacy-Servers?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=tags</guid>
-      <description><![CDATA[<div style='float: left; width: 90px; height: 90px; margin: 0 5px 5px 0; display: block;'><img src='//cdn.themis-media.com/media/global/images/library/deriv/1316/1316218.png' width='90' height='90'></div><p>Mark Kern, former team lead for <em>World of Warcraft</em>, has thrown his weight behind the team that created Nostalrius, a fan-run server dedicated to hosting "vanilla" <em>WoW</em> that was shut down earlier this month.</p>
-<p><a href="http://www.escapistmagazine.com/articles/view/video-games/17021-Mark-Kern-Blizzard-Discuss-World-of-Warcraft-Legacy-Servers?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=tags" title="" target="_blank">View Article</a></p>]]></description>
-      <pubDate>Wed, 27 Apr 2016 19:00:00 GMT</pubDate>
-      <dc:creator>Lizzy Finnegan</dc:creator>
-      <category>Featured Articles</category>
-    </item>
     <item>
       <title>Zero Punctuation: Dark Souls III</title>
-      <link>http://www.escapistmagazine.com/videos/view/zero-punctuation/116862-Dark-Souls-III?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=tags</link>
-      <guid>http://www.escapistmagazine.com/videos/view/zero-punctuation/116862-Dark-Souls-III?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=tags</guid>
-      <description><![CDATA[<div style='float: left; width: 90px; height: 90px; margin: 0 5px 5px 0; display: block;'><img src='http://cdn.escapistmagazine.com/media/global/images/library/deriv/76/76877.png' width='90' height='90'></div><p>This week, Zero Punctuation reviews <em>Dark Souls III</em>.</p>
-<p><a href="http://www.escapistmagazine.com/videos/view/zero-punctuation/116862-Dark-Souls-III?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=tags" title="" target="_blank">View Video</a></p>]]></description>
-      <pubDate>Wed, 27 Apr 2016 16:00:00 GMT</pubDate>
+      <link>http://www.escapistmagazine.com/videos/view/zero-punctuation/116862-Dark-Souls-III?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=popular_videos</link>
+      <guid>http://www.escapistmagazine.com/videos/view/zero-punctuation/116862-Dark-Souls-III?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=popular_videos</guid>
+      <description><![CDATA[<p>This week, Zero Punctuation reviews <em>Dark Souls III</em>.</p>]]></description>
+      <pubDate>Wed, 27 Apr 2016 20:00:00 GMT</pubDate>
       <dc:creator>Ben "Yahtzee" Croshaw</dc:creator>
       <category>Zero Punctuation</category>
     </item>
     <item>
-      <title>Glorious PC Gaming Master Race Announces 2016 Candidacy</title>
-      <link>http://www.escapistmagazine.com/articles/view/video-games/17006-PC-Gaming-Master-Race-Politics-Campaign-President-2016?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=tags</link>
-      <guid>http://www.escapistmagazine.com/articles/view/video-games/17006-PC-Gaming-Master-Race-Politics-Campaign-President-2016?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=tags</guid>
-      <description><![CDATA[<div style='float: left; width: 90px; height: 90px; margin: 0 5px 5px 0; display: block;'><img src='http://cdn.escapistmagazine.com/media/global/images/library/deriv/1316/1316088.png' width='90' height='90'></div><p>Shocking the two established parties, a third party candidate has stepped forward, and he wants to represent you, the PC Gamer.</p>
-<p><a href="http://www.escapistmagazine.com/articles/view/video-games/17006-PC-Gaming-Master-Race-Politics-Campaign-President-2016?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=tags" title="" target="_blank">View Article</a></p>]]></description>
-      <pubDate>Wed, 27 Apr 2016 16:00:00 GMT</pubDate>
-      <dc:creator>Joshua Vanderwall</dc:creator>
-      <category>Featured Articles</category>
+      <title>Good Bad Flicks: Exploring Snow White and the Huntsman</title>
+      <link>http://www.escapistmagazine.com/videos/view/good-bad-flicks/116861-Exploring-Snow-White-and-the-Huntsman?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=popular_videos</link>
+      <guid>http://www.escapistmagazine.com/videos/view/good-bad-flicks/116861-Exploring-Snow-White-and-the-Huntsman?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=popular_videos</guid>
+      <description><![CDATA[<p>Exploring the making of <em>Snow White and the Huntsman</em>.</p>]]></description>
+      <pubDate>Mon, 25 Apr 2016 20:00:00 GMT</pubDate>
+      <dc:creator>Cecil</dc:creator>
+      <category>Good Bad Flicks</category>
     </item>
     <item>
-      <title>World of Tanks and the Gaming Lifestyle - An Interview With Wargaming's Victor Kislyi</title>
-      <link>http://www.escapistmagazine.com/articles/view/video-games/editorials/interviews/17015-World-of-Tanks-Master-of-Orion-An-Interview-With-Wargaming-s-Vic?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=tags</link>
-      <guid>http://www.escapistmagazine.com/articles/view/video-games/editorials/interviews/17015-World-of-Tanks-Master-of-Orion-An-Interview-With-Wargaming-s-Vic?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=tags</guid>
-      <description><![CDATA[<div style='float: left; width: 90px; height: 90px; margin: 0 5px 5px 0; display: block;'><img src='http://cdn.escapistmagazine.com/media/global/images/library/deriv/1316/1316310.png' width='90' height='90'></div><p>Wargaming's Victor Kislyi shares his thoughts on Master of Orion, virtual reality, and why playing World of Tanks has become a kind of gaming lifestyle.</p>
-<p><a href="http://www.escapistmagazine.com/articles/view/video-games/editorials/interviews/17015-World-of-Tanks-Master-of-Orion-An-Interview-With-Wargaming-s-Vic?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=tags" title="" target="_blank">View Article</a></p>]]></description>
-      <pubDate>Tue, 26 Apr 2016 22:15:00 GMT</pubDate>
-      <dc:creator>Marshall Lemon</dc:creator>
-      <category>Interviews</category>
-    </item>
-    <item>
-      <title>John Romero Has Uploaded a New Doom Map as a Tease for Blackroom</title>
-      <link>http://www.escapistmagazine.com/news/view/167271-John-Romero-Has-Uploaded-a-New-Doom-Map-as-a-Tease-for-Blackroom?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=tags</link>
-      <guid>http://www.escapistmagazine.com/news/view/167271-John-Romero-Has-Uploaded-a-New-Doom-Map-as-a-Tease-for-Blackroom?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=tags</guid>
-      <description><![CDATA[<div style='float: left; width: 90px; height: 90px; margin: 0 5px 5px 0; display: block;'><img src='//cdn.themis-media.com/media/global/images/library/deriv/1316/1316670.png' width='90' height='90'></div><p>John Romero has uploaded a new map for <em>Doom</em>, along with a promise of what to expect from <em>Blackroom</em>.</p>
-<p><a href="http://www.escapistmagazine.com/news/view/167271-John-Romero-Has-Uploaded-a-New-Doom-Map-as-a-Tease-for-Blackroom?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=tags" title="" target="_blank">View Article</a></p>]]></description>
-      <pubDate>Tue, 26 Apr 2016 21:47:00 GMT</pubDate>
-      <dc:creator>Lizzy Finnegan</dc:creator>
-      <category>News</category>
-    </item>
-    <item>
-      <title>8 of the Funniest Mods for Skyrim</title>
-      <link>http://www.escapistmagazine.com/articles/view/features/galleryoftheday/17020-Eight-of-the-Funniest-Mods-for-Skyrim?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=tags</link>
-      <guid>http://www.escapistmagazine.com/articles/view/features/galleryoftheday/17020-Eight-of-the-Funniest-Mods-for-Skyrim?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=tags</guid>
-      <description><![CDATA[<div style='float: left; width: 90px; height: 90px; margin: 0 5px 5px 0; display: block;'><img src='//cdn.themis-media.com/media/global/images/library/deriv/577/577062.png' width='90' height='90'></div><p>If there's one thing you can count on, it's modders having a bit of fun making mods for their favorite games. </p>
-<p><a href="http://www.escapistmagazine.com/articles/view/features/galleryoftheday/17020-Eight-of-the-Funniest-Mods-for-Skyrim?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=tags" title="" target="_blank">View Article</a></p>]]></description>
-      <pubDate>Tue, 26 Apr 2016 21:18:00 GMT</pubDate>
-      <dc:creator>Jeff Mills</dc:creator>
-      <category>Featured Articles</category>
-    </item>
-    <item>
-      <title>Seven - The Days Long Gone Preview - Beyond Post-Apocalyptic</title>
-      <link>http://www.escapistmagazine.com/articles/view/video-games/17019-Seven-The-Days-Long-Gone-Preview?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=tags</link>
-      <guid>http://www.escapistmagazine.com/articles/view/video-games/17019-Seven-The-Days-Long-Gone-Preview?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=tags</guid>
-      <description><![CDATA[<div style='float: left; width: 90px; height: 90px; margin: 0 5px 5px 0; display: block;'><img src='//cdn.themis-media.com/media/global/images/library/deriv/1316/1316416.png' width='90' height='90'></div><p><em>Seven: The Days Long Gone</em> from Fool's Theory was surprisingly impressive, even in its pre-alpha demo.</p>
-<p><a href="http://www.escapistmagazine.com/articles/view/video-games/17019-Seven-The-Days-Long-Gone-Preview?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=tags" title="" target="_blank">View Article</a></p>]]></description>
-      <pubDate>Tue, 26 Apr 2016 20:30:00 GMT</pubDate>
-      <dc:creator>Lizzy Finnegan</dc:creator>
-      <category>Featured Articles</category>
-    </item>
-    <item>
-      <title>Master X Master Preview - Tag, You're It</title>
-      <link>http://www.escapistmagazine.com/articles/view/video-games/17018-Master-X-Master-Preview?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=tags</link>
-      <guid>http://www.escapistmagazine.com/articles/view/video-games/17018-Master-X-Master-Preview?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=tags</guid>
-      <description><![CDATA[<div style='float: left; width: 90px; height: 90px; margin: 0 5px 5px 0; display: block;'><img src='http://cdn.escapistmagazine.com/media/global/images/library/deriv/1316/1316526.png' width='90' height='90'></div><p><em>Master X Master</em> is the tag team Action MOBA I never knew I wanted.</p>
-<p><a href="http://www.escapistmagazine.com/articles/view/video-games/17018-Master-X-Master-Preview?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=tags" title="" target="_blank">View Article</a></p>]]></description>
-      <pubDate>Tue, 26 Apr 2016 18:16:22 GMT</pubDate>
-      <dc:creator>Lizzy Finnegan</dc:creator>
-      <category>Featured Articles</category>
-    </item>
-    <item>
-      <title>Why Do Branching Storylines Never Deliver on Their Promises?</title>
-      <link>http://www.escapistmagazine.com/articles/view/video-games/columns/extra-punctuation/17011-Branching-Storylines-Never-Deliver-on-Their-Promises?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=tags</link>
-      <guid>http://www.escapistmagazine.com/articles/view/video-games/columns/extra-punctuation/17011-Branching-Storylines-Never-Deliver-on-Their-Promises?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=tags</guid>
-      <description><![CDATA[<div style='float: left; width: 90px; height: 90px; margin: 0 5px 5px 0; display: block;'><img src='http://cdn.escapistmagazine.com/media/global/images/library/deriv/76/76403.png' width='90' height='90'></div><p>Could we perhaps make some kind of official universal agreement to the effect that the whole 'branching path' thing in triple-A story-driven games never really delivers the promised experience?</p>
-<p><a href="http://www.escapistmagazine.com/articles/view/video-games/columns/extra-punctuation/17011-Branching-Storylines-Never-Deliver-on-Their-Promises?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=tags" title="" target="_blank">View Article</a></p>]]></description>
-      <pubDate>Tue, 26 Apr 2016 16:00:00 GMT</pubDate>
+      <title>Zero Punctuation: Quantum Break</title>
+      <link>http://www.escapistmagazine.com/videos/view/zero-punctuation/116859-Quantum-Break?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=popular_videos</link>
+      <guid>http://www.escapistmagazine.com/videos/view/zero-punctuation/116859-Quantum-Break?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=popular_videos</guid>
+      <description><![CDATA[<p>This week, Zero Punctuation reviews <em>Quantum Break</em>.</p>]]></description>
+      <pubDate>Wed, 20 Apr 2016 20:00:00 GMT</pubDate>
       <dc:creator>Ben "Yahtzee" Croshaw</dc:creator>
-      <category>Op-Ed</category>
+      <category>Zero Punctuation</category>
     </item>
     <item>
-      <title>Blizzard Responds to Nostalrius Server Closure Complaints</title>
-      <link>http://www.escapistmagazine.com/news/view/167259-Blizzard-Responds-to-Nostalrius-Server-Closure-Complaints?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=tags</link>
-      <guid>http://www.escapistmagazine.com/news/view/167259-Blizzard-Responds-to-Nostalrius-Server-Closure-Complaints?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=tags</guid>
-      <description><![CDATA[<div style='float: left; width: 90px; height: 90px; margin: 0 5px 5px 0; display: block;'><img src='//cdn.themis-media.com/media/global/images/library/deriv/1316/1316218.png' width='90' height='90'></div><p>Blizzard has responded to complaints over the closure of Nostalrius, an unofficial <em>World of Warcraft</em> server.</p>
-<p><a href="http://www.escapistmagazine.com/news/view/167259-Blizzard-Responds-to-Nostalrius-Server-Closure-Complaints?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=tags" title="" target="_blank">View Article</a></p>]]></description>
-      <pubDate>Tue, 26 Apr 2016 13:07:26 GMT</pubDate>
-      <dc:creator>Lizzy Finnegan</dc:creator>
-      <category>News</category>
-    </item>
-    <item>
-      <title>SoundSelf Preview - Do You Want to See Something Weird?</title>
-      <link>http://www.escapistmagazine.com/articles/view/video-games/17014-SoundSelf-Preview?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=tags</link>
-      <guid>http://www.escapistmagazine.com/articles/view/video-games/17014-SoundSelf-Preview?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=tags</guid>
-      <description><![CDATA[<div style='float: left; width: 90px; height: 90px; margin: 0 5px 5px 0; display: block;'><img src='//cdn.themis-media.com/media/global/images/library/deriv/1316/1316032.png' width='90' height='90'></div><p><em>SoundSelf</em> is an immersive, psychedelic virtual reality meditation game that reacts to you while you react to it.</p>
-<p><a href="http://www.escapistmagazine.com/articles/view/video-games/17014-SoundSelf-Preview?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=tags" title="" target="_blank">View Article</a></p>]]></description>
-      <pubDate>Mon, 25 Apr 2016 21:48:26 GMT</pubDate>
-      <dc:creator>Lizzy Finnegan</dc:creator>
-      <category>Featured Articles</category>
-    </item>
-    <item>
-      <title>Push Me Pull You Preview - Wonderfully Bizarre</title>
-      <link>http://www.escapistmagazine.com/articles/view/video-games/17012-Push-Me-Pull-You-Preview?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=tags</link>
-      <guid>http://www.escapistmagazine.com/articles/view/video-games/17012-Push-Me-Pull-You-Preview?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=tags</guid>
-      <description><![CDATA[<div style='float: left; width: 90px; height: 90px; margin: 0 5px 5px 0; display: block;'><img src='//cdn.themis-media.com/media/global/images/library/deriv/1315/1315844.png' width='90' height='90'></div><p><em>Push Me Pull You</em> is one of the most horrifically charming non-traditional sports games I've ever played.</p>
-<p><a href="http://www.escapistmagazine.com/articles/view/video-games/17012-Push-Me-Pull-You-Preview?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=tags" title="" target="_blank">View Article</a></p>]]></description>
-      <pubDate>Mon, 25 Apr 2016 17:20:45 GMT</pubDate>
-      <dc:creator>Lizzy Finnegan</dc:creator>
-      <category>Featured Articles</category>
-    </item>
-    <item>
-      <title>John Romero and Adrian Carmack Officially Announce New FPS</title>
-      <link>http://www.escapistmagazine.com/news/view/167250-John-Romero-and-Adrian-Carmack-Officially-Announce-New-FPS?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=tags</link>
-      <guid>http://www.escapistmagazine.com/news/view/167250-John-Romero-and-Adrian-Carmack-Officially-Announce-New-FPS?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=tags</guid>
-      <description><![CDATA[<div style='float: left; width: 90px; height: 90px; margin: 0 5px 5px 0; display: block;'><img src='http://cdn.escapistmagazine.com/media/global/images/library/deriv/1315/1315802.png' width='90' height='90'></div><p>John  Romero and Adrian Carmack are raising funds for a new FPS, <em>Blackroom</em>.</p>
-<p><a href="http://www.escapistmagazine.com/news/view/167250-John-Romero-and-Adrian-Carmack-Officially-Announce-New-FPS?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=tags" title="" target="_blank">View Article</a></p>]]></description>
-      <pubDate>Mon, 25 Apr 2016 15:34:57 GMT</pubDate>
-      <dc:creator>Lizzy Finnegan</dc:creator>
-      <category>News</category>
-    </item>
-    <item>
-      <title>Blind Preview - Now You See Me</title>
-      <link>http://www.escapistmagazine.com/articles/view/video-games/17013-Blind-Preview?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=tags</link>
-      <guid>http://www.escapistmagazine.com/articles/view/video-games/17013-Blind-Preview?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=tags</guid>
-      <description><![CDATA[<div style='float: left; width: 90px; height: 90px; margin: 0 5px 5px 0; display: block;'><img src='//cdn.themis-media.com/media/global/images/library/deriv/1315/1315754.png' width='90' height='90'></div><p><em>Blind</em> is a story-driven, virtual reality psychological thriller that places the player in the shoes of a blind young girl in a sprawling, mysterious mansion.</p>
-<p><a href="http://www.escapistmagazine.com/articles/view/video-games/17013-Blind-Preview?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=tags" title="" target="_blank">View Article</a></p>]]></description>
-      <pubDate>Mon, 25 Apr 2016 14:41:54 GMT</pubDate>
-      <dc:creator>Lizzy Finnegan</dc:creator>
-      <category>Featured Articles</category>
-    </item>
-    <item>
-      <title>I Am Setsuna Preview - Both Nostalgic and Novel</title>
-      <link>http://www.escapistmagazine.com/articles/view/video-games/17007-I-am-Setsuna-Preview?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=tags</link>
-      <guid>http://www.escapistmagazine.com/articles/view/video-games/17007-I-am-Setsuna-Preview?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=tags</guid>
-      <description><![CDATA[<div style='float: left; width: 90px; height: 90px; margin: 0 5px 5px 0; display: block;'><img src='//cdn.themis-media.com/media/global/images/library/deriv/1315/1315392.png' width='90' height='90'></div><p><em>I Am Setsuna</em> is both nostalgic and new, taking the most appealing aspects of 90</p>
-<p><a href="http://www.escapistmagazine.com/articles/view/video-games/17007-I-am-Setsuna-Preview?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=tags" title="" target="_blank">View Article</a></p>]]></description>
-      <pubDate>Sat, 23 Apr 2016 22:58:48 GMT</pubDate>
-      <dc:creator>Lizzy Finnegan</dc:creator>
-      <category>Featured Articles</category>
-    </item>
-    <item>
-      <title>Inversus Preview - Sleek and Complex</title>
-      <link>http://www.escapistmagazine.com/articles/view/video-games/17008-Inversus-Preview?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=tags</link>
-      <guid>http://www.escapistmagazine.com/articles/view/video-games/17008-Inversus-Preview?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=tags</guid>
-      <description><![CDATA[<div style='float: left; width: 90px; height: 90px; margin: 0 5px 5px 0; display: block;'><img src='//cdn.themis-media.com/media/global/images/library/deriv/1315/1315444.png' width='90' height='90'></div><p><em>Inversus</em> is simple and orderly in appearance alone, lulling players into a false sense of security and then changing the rules again and again.</p>
-<p><a href="http://www.escapistmagazine.com/articles/view/video-games/17008-Inversus-Preview?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=tags" title="" target="_blank">View Article</a></p>]]></description>
-      <pubDate>Sat, 23 Apr 2016 22:47:50 GMT</pubDate>
-      <dc:creator>Lizzy Finnegan</dc:creator>
-      <category>Featured Articles</category>
-    </item>
-    <item>
-      <title>Mages of Mystralia Preview - Simply Spellbinding</title>
-      <link>http://www.escapistmagazine.com/articles/view/video-games/17004-Mages-of-Mystralia-Preview?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=tags</link>
-      <guid>http://www.escapistmagazine.com/articles/view/video-games/17004-Mages-of-Mystralia-Preview?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=tags</guid>
-      <description><![CDATA[<div style='float: left; width: 90px; height: 90px; margin: 0 5px 5px 0; display: block;'><img src='//cdn.themis-media.com/media/global/images/library/deriv/1315/1315117.png' width='90' height='90'></div><p><em>Mages of Mystralia</em> feels novel, and yet familiar at the same time.</p>
-<p><a href="http://www.escapistmagazine.com/articles/view/video-games/17004-Mages-of-Mystralia-Preview?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=tags" title="" target="_blank">View Article</a></p>]]></description>
-      <pubDate>Sat, 23 Apr 2016 11:24:00 GMT</pubDate>
-      <dc:creator>Lizzy Finnegan</dc:creator>
-      <category>Featured Articles</category>
-    </item>
-    <item>
-      <title>We Happy Few Preview - Are You On Your Joy?</title>
-      <link>http://www.escapistmagazine.com/articles/view/video-games/17003-We-Happy-Few-Preview?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=tags</link>
-      <guid>http://www.escapistmagazine.com/articles/view/video-games/17003-We-Happy-Few-Preview?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=tags</guid>
-      <description><![CDATA[<div style='float: left; width: 90px; height: 90px; margin: 0 5px 5px 0; display: block;'><img src='http://cdn.escapistmagazine.com/media/global/images/library/deriv/1315/1315065.png' width='90' height='90'></div><p><em>We Happy Few</em> may be the most successfully terrifying horror game I've played in years - and it isn't even a horror game.</p>
-<p><a href="http://www.escapistmagazine.com/articles/view/video-games/17003-We-Happy-Few-Preview?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=tags" title="" target="_blank">View Article</a></p>]]></description>
-      <pubDate>Sat, 23 Apr 2016 02:11:07 GMT</pubDate>
-      <dc:creator>Lizzy Finnegan</dc:creator>
-      <category>Featured Articles</category>
-    </item>
-    <item>
-      <title>In Potions - A Curious Tale,  Crafting is the Essence of Combat</title>
-      <link>http://www.escapistmagazine.com/news/view/167240-In-Potions-A-Curious-Tale-Crafting-is-the-Essence-of-Combat?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=tags</link>
-      <guid>http://www.escapistmagazine.com/news/view/167240-In-Potions-A-Curious-Tale-Crafting-is-the-Essence-of-Combat?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=tags</guid>
-      <description><![CDATA[<div style='float: left; width: 90px; height: 90px; margin: 0 5px 5px 0; display: block;'><img src='http://cdn.escapistmagazine.com/media/global/images/library/deriv/1315/1315021.png' width='90' height='90'></div><p>Seattle indie studio Stumbling Cat's first project, <em>Potions - A Curious Tale</em> is trying to hit all the right notes.</p>
-<p><a href="http://www.escapistmagazine.com/news/view/167240-In-Potions-A-Curious-Tale-Crafting-is-the-Essence-of-Combat?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=tags" title="" target="_blank">View Article</a></p>]]></description>
-      <pubDate>Fri, 22 Apr 2016 22:00:00 GMT</pubDate>
-      <dc:creator>Joshua Vanderwall</dc:creator>
-      <category>News</category>
-    </item>
-    <item>
-      <title>Masquerada's Kickstarter is Surprisingly Low-Risk</title>
-      <link>http://www.escapistmagazine.com/news/view/167234-Masqueradas-Kickstarter-is-Surprisingly-Low-Risk?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=tags</link>
-      <guid>http://www.escapistmagazine.com/news/view/167234-Masqueradas-Kickstarter-is-Surprisingly-Low-Risk?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=tags</guid>
-      <description><![CDATA[<div style='float: left; width: 90px; height: 90px; margin: 0 5px 5px 0; display: block;'><img src='http://cdn.escapistmagazine.com/media/global/images/library/deriv/1314/1314963.png' width='90' height='90'></div><p>The Witching Hour Studios team decided that its upcoming <em>Masquerada Songs and Shadows</em> would be unsuitable for Early Access, instead going to Kickstarter for a final funding push.</p>
-<p><a href="http://www.escapistmagazine.com/news/view/167234-Masqueradas-Kickstarter-is-Surprisingly-Low-Risk?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=tags" title="" target="_blank">View Article</a></p>]]></description>
-      <pubDate>Fri, 22 Apr 2016 18:00:00 GMT</pubDate>
-      <dc:creator>Joshua Vanderwall</dc:creator>
-      <category>News</category>
-    </item>
-    <item>
-      <title>Arrive in Style With Uberwatch at PAX East</title>
-      <link>http://www.escapistmagazine.com/news/view/167239-Arrive-in-Style-With-Uberwatch-at-PAX-East?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=tags</link>
-      <guid>http://www.escapistmagazine.com/news/view/167239-Arrive-in-Style-With-Uberwatch-at-PAX-East?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=tags</guid>
-      <description><![CDATA[<div style='float: left; width: 90px; height: 90px; margin: 0 5px 5px 0; display: block;'><img src='http://cdn.escapistmagazine.com/media/global/images/library/deriv/1314/1314955.png' width='90' height='90'></div><p>Dressing up Ubers at conventions isn't a new idea, but sweet mother does Blizzard have it right with its <em>Overwatch</em> promotion, 'Uberwatch.' </p>
-<p><a href="http://www.escapistmagazine.com/news/view/167239-Arrive-in-Style-With-Uberwatch-at-PAX-East?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=tags" title="" target="_blank">View Article</a></p>]]></description>
-      <pubDate>Fri, 22 Apr 2016 17:15:00 GMT</pubDate>
-      <dc:creator>Joshua Vanderwall</dc:creator>
-      <category>News</category>
-    </item>
-    <item>
-      <title>Judging By The Cover: Judging X-Men Apocalypse</title>
-      <link>http://www.escapistmagazine.com/videos/view/judging-by-the-cover/116860-Judging-X-Men-Apocalypse?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=tags</link>
-      <guid>http://www.escapistmagazine.com/videos/view/judging-by-the-cover/116860-Judging-X-Men-Apocalypse?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=tags</guid>
-      <description><![CDATA[<div style='float: left; width: 90px; height: 90px; margin: 0 5px 5px 0; display: block;'><img src='http://cdn.escapistmagazine.com/media/global/images/library/deriv/934/934232.png' width='90' height='90'></div><p>Judging <em>X-Men Apocalypse</em> by the cover.</p>
-<p><a href="http://www.escapistmagazine.com/videos/view/judging-by-the-cover/116860-Judging-X-Men-Apocalypse?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=tags" title="" target="_blank">View Video</a></p>]]></description>
-      <pubDate>Fri, 22 Apr 2016 16:00:00 GMT</pubDate>
+      <title>Zero Punctuation: Shadow Warrior</title>
+      <link>http://www.escapistmagazine.com/videos/view/zero-punctuation/116855-Shadow-Warrior?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=popular_videos</link>
+      <guid>http://www.escapistmagazine.com/videos/view/zero-punctuation/116855-Shadow-Warrior?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=popular_videos</guid>
+      <description><![CDATA[<p>This week, Zero Punctuation reviews <em>Shadow Warrior</em>.</p>]]></description>
+      <pubDate>Wed, 13 Apr 2016 20:00:00 GMT</pubDate>
       <dc:creator>Ben "Yahtzee" Croshaw</dc:creator>
-      <category>Videos</category>
+      <category>Zero Punctuation</category>
+    </item>
+    <item>
+      <title>Natural 20: Whip And Lash</title>
+      <link>http://www.escapistmagazine.com/videos/view/nat-20/116863-Whip-And-Lash?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=popular_videos</link>
+      <guid>http://www.escapistmagazine.com/videos/view/nat-20/116863-Whip-And-Lash?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=popular_videos</guid>
+      <description><![CDATA[<p>The group play tests a new module, but the game designer marches to the beat of his own drum.</p>]]></description>
+      <pubDate>Thu, 28 Apr 2016 20:00:00 GMT</pubDate>
+      <dc:creator>Natural_20</dc:creator>
+      <category>Natural 20</category>
+    </item>
+    <item>
+      <title>Zero Punctuation: The Division</title>
+      <link>http://www.escapistmagazine.com/videos/view/zero-punctuation/116838-The-Division?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=popular_videos</link>
+      <guid>http://www.escapistmagazine.com/videos/view/zero-punctuation/116838-The-Division?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=popular_videos</guid>
+      <description><![CDATA[<p>This week, Zero Punctuation reviews <em>The Division</em>.</p>]]></description>
+      <pubDate>Wed, 23 Mar 2016 20:00:00 GMT</pubDate>
+      <dc:creator>Ben "Yahtzee" Croshaw</dc:creator>
+      <category>Zero Punctuation</category>
+    </item>
+    <item>
+      <title>Zero Punctuation: Top 5 Games of 2015</title>
+      <link>http://www.escapistmagazine.com/videos/view/zero-punctuation/116617-Top-5-Games-of-2015?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=popular_videos</link>
+      <guid>http://www.escapistmagazine.com/videos/view/zero-punctuation/116617-Top-5-Games-of-2015?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=popular_videos</guid>
+      <description><![CDATA[<p>This week, the annual Top 5 lists.</p>]]></description>
+      <pubDate>Wed, 06 Jan 2016 21:00:00 GMT</pubDate>
+      <dc:creator>Ben "Yahtzee" Croshaw</dc:creator>
+      <category>Zero Punctuation</category>
+    </item>
+    <item>
+      <title>Good Bad Flicks: Exploring Soldier</title>
+      <link>http://www.escapistmagazine.com/videos/view/good-bad-flicks/116858-Exploring-Soldier?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=popular_videos</link>
+      <guid>http://www.escapistmagazine.com/videos/view/good-bad-flicks/116858-Exploring-Soldier?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=popular_videos</guid>
+      <description><![CDATA[<p>Exploring the making of <em>Soldier</em>.</p>]]></description>
+      <pubDate>Mon, 18 Apr 2016 20:00:00 GMT</pubDate>
+      <dc:creator>Cecil</dc:creator>
+      <category>Good Bad Flicks</category>
+    </item>
+    <item>
+      <title>Jimquisition: The Adblock Episode</title>
+      <link>http://www.escapistmagazine.com/videos/view/jimquisition/8854-The-Adblock-Episode?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=popular_videos</link>
+      <guid>http://www.escapistmagazine.com/videos/view/jimquisition/8854-The-Adblock-Episode?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=popular_videos</guid>
+      <description><![CDATA[<p>Jimquisition tackles the ever thorny issue of AdBlock, with the kind of humility and charm you've come to expect from this show.</p>]]></description>
+      <pubDate>Wed, 05 Mar 2014 00:00:00 GMT</pubDate>
+      <dc:creator>Jim Sterling</dc:creator>
+      <category>Jimquisition</category>
+    </item>
+    <item>
+      <title>The Big Picture: Remembering the Real Jack Thompson</title>
+      <link>http://www.escapistmagazine.com/videos/view/the-big-picture/9865-Remembering-the-Real-Jack-Thompson?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=popular_videos</link>
+      <guid>http://www.escapistmagazine.com/videos/view/the-big-picture/9865-Remembering-the-Real-Jack-Thompson?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=popular_videos</guid>
+      <description><![CDATA[<p><div style='text-align: center;'>MovieBob feels that it's time for the gaming community to get over the infamous Jack Thompson.</div></p>]]></description>
+      <pubDate>Tue, 04 Nov 2014 21:00:00 GMT</pubDate>
+      <dc:creator>Bob "MovieBob" Chipman</dc:creator>
+      <category>The Big Picture</category>
+    </item>
+    <item>
+      <title>Zero Punctuation: Firewatch &amp; Layers of Fear</title>
+      <link>http://www.escapistmagazine.com/videos/view/zero-punctuation/116814-Firewatch-Layers-of-Fear?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=popular_videos</link>
+      <guid>http://www.escapistmagazine.com/videos/view/zero-punctuation/116814-Firewatch-Layers-of-Fear?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=popular_videos</guid>
+      <description><![CDATA[<p>This week, Zero Punctuation reviews <em>Firewatch</em> &amp; <em>Layers of Fear</em>.</p>]]></description>
+      <pubDate>Wed, 02 Mar 2016 22:00:00 GMT</pubDate>
+      <dc:creator>Ben "Yahtzee" Croshaw</dc:creator>
+      <category>Zero Punctuation</category>
+    </item>
+    <item>
+      <title>Zero Punctuation: Republique</title>
+      <link>http://www.escapistmagazine.com/videos/view/zero-punctuation/116852-Republique?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=popular_videos</link>
+      <guid>http://www.escapistmagazine.com/videos/view/zero-punctuation/116852-Republique?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=popular_videos</guid>
+      <description><![CDATA[<p>This week, Zero Punctuation reviews <em>Republique</em>.</p>]]></description>
+      <pubDate>Wed, 06 Apr 2016 20:00:00 GMT</pubDate>
+      <dc:creator>Ben "Yahtzee" Croshaw</dc:creator>
+      <category>Zero Punctuation</category>
+    </item>
+    <item>
+      <title>Zero Punctuation: Salt and Sanctuary</title>
+      <link>http://www.escapistmagazine.com/videos/view/zero-punctuation/116847-Salt-and-Sanctuary?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=popular_videos</link>
+      <guid>http://www.escapistmagazine.com/videos/view/zero-punctuation/116847-Salt-and-Sanctuary?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=popular_videos</guid>
+      <description><![CDATA[<p>This week, Zero Punctuation reviews <em>Salt and Sanctuary</em>.</p>]]></description>
+      <pubDate>Wed, 30 Mar 2016 20:00:00 GMT</pubDate>
+      <dc:creator>Ben "Yahtzee" Croshaw</dc:creator>
+      <category>Zero Punctuation</category>
+    </item>
+    <item>
+      <title>Judging By The Cover: Judging The Beatles White Album</title>
+      <link>http://www.escapistmagazine.com/videos/view/judging-by-the-cover/116850-Judging-The-Beatles-White-Album?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=popular_videos</link>
+      <guid>http://www.escapistmagazine.com/videos/view/judging-by-the-cover/116850-Judging-The-Beatles-White-Album?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=popular_videos</guid>
+      <description><![CDATA[<p>Judging The Beatles White Album by the cover.</p>]]></description>
+      <pubDate>Fri, 01 Apr 2016 20:00:00 GMT</pubDate>
+      <dc:creator>Ben "Yahtzee" Croshaw</dc:creator>
+      <category>Judging By The Cover</category>
+    </item>
+    <item>
+      <title>Zero Punctuation: Stardew Valley &amp; Superhot</title>
+      <link>http://www.escapistmagazine.com/videos/view/zero-punctuation/116829-Stardew-Valley-Superhot?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=popular_videos</link>
+      <guid>http://www.escapistmagazine.com/videos/view/zero-punctuation/116829-Stardew-Valley-Superhot?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=popular_videos</guid>
+      <description><![CDATA[<p>This week, Zero Punctuation reviews <em>Stardew Valley</em> &amp; <em>Superhot</em>.</p>]]></description>
+      <pubDate>Wed, 16 Mar 2016 20:00:00 GMT</pubDate>
+      <dc:creator>Ben "Yahtzee" Croshaw</dc:creator>
+      <category>Zero Punctuation</category>
+    </item>
+    <item>
+      <title>Zero Punctuation: XCOM 2</title>
+      <link>http://www.escapistmagazine.com/videos/view/zero-punctuation/116803-XCOM-2?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=popular_videos</link>
+      <guid>http://www.escapistmagazine.com/videos/view/zero-punctuation/116803-XCOM-2?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=popular_videos</guid>
+      <description><![CDATA[<p>This week, Zero Punctuation reviews <em>XCOM 2</em>.</p>]]></description>
+      <pubDate>Wed, 24 Feb 2016 21:00:00 GMT</pubDate>
+      <dc:creator>Ben "Yahtzee" Croshaw</dc:creator>
+      <category>Zero Punctuation</category>
+    </item>
+    <item>
+      <title>Jimquisition: Dumbing Down for the Filthy Casuals</title>
+      <link>http://www.escapistmagazine.com/videos/view/jimquisition/6601-Dumbing-Down-for-the-Filthy-Casuals?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=popular_videos</link>
+      <guid>http://www.escapistmagazine.com/videos/view/jimquisition/6601-Dumbing-Down-for-the-Filthy-Casuals?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=popular_videos</guid>
+      <description><![CDATA[<p>There are valid concerns with the "dumbing down" of our entertainment, but as with so many issues, there are just as many invalid ones. This is especially true when "inclusiveness" and "dumbing down" are seen as the same thing.</p>]]></description>
+      <pubDate>Mon, 10 Dec 2012 21:00:00 GMT</pubDate>
+      <dc:creator>Jim Sterling</dc:creator>
+      <category>Jimquisition</category>
+    </item>
+    <item>
+      <title>Zero Punctuation: Far Cry Primal</title>
+      <link>http://www.escapistmagazine.com/videos/view/zero-punctuation/116820-Far-Cry-Primal?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=popular_videos</link>
+      <guid>http://www.escapistmagazine.com/videos/view/zero-punctuation/116820-Far-Cry-Primal?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=popular_videos</guid>
+      <description><![CDATA[<p>This week, Zero Punctuation reviews <em>Far Cry Primal</em>.</p>]]></description>
+      <pubDate>Wed, 09 Mar 2016 21:00:00 GMT</pubDate>
+      <dc:creator>Ben "Yahtzee" Croshaw</dc:creator>
+      <category>Zero Punctuation</category>
+    </item>
+    <item>
+      <title>Zero Punctuation: The Witness &amp; Bombshell</title>
+      <link>http://www.escapistmagazine.com/videos/view/zero-punctuation/116783-The-Witness-Bombshell?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=popular_videos</link>
+      <guid>http://www.escapistmagazine.com/videos/view/zero-punctuation/116783-The-Witness-Bombshell?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=popular_videos</guid>
+      <description><![CDATA[<p>This week, Zero Punctuation reviews <em>The Witness</em> &amp; <em>Bombshell</em>.</p>]]></description>
+      <pubDate>Wed, 10 Feb 2016 21:00:00 GMT</pubDate>
+      <dc:creator>Ben "Yahtzee" Croshaw</dc:creator>
+      <category>Zero Punctuation</category>
+    </item>
+    <item>
+      <title>Jimquisition: The 100% Objective Review</title>
+      <link>http://www.escapistmagazine.com/videos/view/jimquisition/9860-The-100-Objective-Review?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=popular_videos</link>
+      <guid>http://www.escapistmagazine.com/videos/view/jimquisition/9860-The-100-Objective-Review?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=popular_videos</guid>
+      <description><![CDATA[<p><div style='text-align: center;'>This video is good. Unless you think it's bad. Then it's bad.</div></p>]]></description>
+      <pubDate>Mon, 03 Nov 2014 21:00:00 GMT</pubDate>
+      <dc:creator>Jim Sterling</dc:creator>
+      <category>Jimquisition</category>
     </item>
   </channel>
 </rss>

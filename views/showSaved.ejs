@@ -7,7 +7,7 @@
     <h1><%= article.title %></h1>
     <p><%= article.description %></p>
     <p><a href="<%= article.link %>" target="blank"><%= article.link %></a></p>
-    <form>
+    <form method="DELETE" action="/user/saved">
       <input type="button" id="deleteThis" value="Delete">
     </form>
   </div>
